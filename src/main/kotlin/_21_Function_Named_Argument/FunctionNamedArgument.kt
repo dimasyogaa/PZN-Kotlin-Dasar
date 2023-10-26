@@ -1,5 +1,5 @@
 package _21_Function_Named_Argument
-
+// semua parameter harus menggunakan named argument
 fun fullName(
     firstName: String,
     middleName: String,
